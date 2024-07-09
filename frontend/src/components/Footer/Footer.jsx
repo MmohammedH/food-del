@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid itaque voluptatibus, aliquam odio eligendi deleniti repellendus natus consequatur facilis rem, veniam libero adipisci sit inventore dolor placeat, totam harum ratione!</p>
+                <p>At Tomato, we're passionate about bringing delicious meals right to your doorstep. Our mission is to deliver happiness with every bite, offering a wide variety of dishes made from the freshest ingredients.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
@@ -26,8 +26,8 @@ const Footer = () => {
             <div className="footer-content-right">
                 <h2>Get in Touch</h2>
                 <ul>
-                    <li>+91-8209545216</li>
-                    <li>contact@gmail.com</li>
+                    <li>+91-8209116031</li>
+                    <li>mohsain5253@gmail.com</li>
                 </ul>
             </div>
         </div>
