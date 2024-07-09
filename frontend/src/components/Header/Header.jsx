@@ -5,7 +5,7 @@ const Header = () => {
     <div className='header'>
         <div className="header-contents">
             <h2>Order your favourite food here</h2>
-            <p> ing elit. Minima at voluptatum possimus perspiciatis non repellat, repellendus accusantium obcaecati porro minus saepe consectetur eligendi, et nemo eaque cupiditate? Laudantium, magnam quam.</p>
+            <p> Indulge in a culinary adventure from the comfort of your home. Our curated menu features the finest dishes, crafted with fresh, locally-sourced ingredients by top chefs. Whether you crave comfort food or gourmet delights, we bring the best of the culinary world straight to your door. Enjoy fast, reliable delivery and savor the flavors that make every meal special. Order now and taste the difference!</p>
             <button>View Menu</button>
         </div>
     </div>
