@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='footer' id='footer'>
         <div className="footer-content">
             <div className="footer-content-left">
-                <img src={assets.Logo} alt="" />
+                <img src={assets.logo1} alt="" />
                 <p>At Tomato, we're passionate about bringing delicious meals right to your doorstep. Our mission is to deliver happiness with every bite, offering a wide variety of dishes made from the freshest ingredients.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
