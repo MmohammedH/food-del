@@ -40,6 +40,11 @@
     background-color: grey;
     border: none;
 }
+.footer-content-left img{
+    height: 27.58px;
+    width: 120px;
+    border-radius: 20%;
+}
 @media (max-width:750px){
     .footer-content{
         display: flex;
