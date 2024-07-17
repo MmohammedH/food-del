@@ -5,7 +5,7 @@
     align-items: center;
     margin-top: 15px;
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(122,188,201,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(122,188,201,1) 100%);
 }
 .navbar .logo{
     width: 150px;
