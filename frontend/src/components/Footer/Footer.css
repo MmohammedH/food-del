@@ -41,9 +41,8 @@
     border: none;
 }
 .footer-content-left img{
-    height: 27.58px;
-    width: 120px;
-    border-radius: 20%;
+    height: 58px;
+    width: 150px;
 }
 @media (max-width:750px){
     .footer-content{
