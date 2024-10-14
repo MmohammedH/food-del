@@ -6,7 +6,7 @@ I have build hybrid app that use web technologies (HTML, CSS, and JavaScript) wr
 
 # Which Frontend TechStack used and Why?
 As Food delivery web apps required Good UI/Ux design and easy to use interafce without having much knowledge of tech.
-1) Framework: React.js
+1) UI Framework: React.js
 React framework is popular for building dynamic user interfaces and provide a responsive experience.
 2) CSS Framework: Bootstrap
 Bootstrap provides pre-designed components.
