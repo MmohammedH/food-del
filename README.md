@@ -21,6 +21,6 @@ NoSQL databases MongoDB is Document Type stores data as key-value pair similar t
 1) RESTful API
  REST is widely used as they are scalable, fast, and support a variety of data types.
 2) Real-time Features:
- WebSockets useful for real-time updates, its bidirectional in nature and uses TCP which is connection oriented protocol to communicate between server and client, used here for like updating order status, etc.
+ Pooling useful for real-time updates, its bidirectional in nature and uses TCP which is connection oriented protocol to communicate between server and client, used here for like updating order status, etc.
 3) Payment Gateway:
  Stripe offer robust APIs for handling transactions securely.
