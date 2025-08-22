@@ -1,6 +1,6 @@
 # food-del
 
-Developed a responsive UI withReactJS, integratedRESTful APIs using Express.js and Node.js, and used MongoDB for data storage. Implemented Stripe for payment processing and created an admin panel with real-time updates via WebSockets
+Developed a responsive UI withReactJS, integratedRESTful APIs using Express.js and Node.js, and used MongoDB for data storage. Implemented Stripe for payment processing and created an admin panel with real-time updates via Pooling
 
 I have build hybrid app that use web technologies (HTML, CSS, and JavaScript) wrapped in a native container. They are cost-effective and faster to develop
 
